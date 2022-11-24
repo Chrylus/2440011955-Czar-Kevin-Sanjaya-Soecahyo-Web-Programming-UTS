@@ -1,0 +1,25 @@
+div.”header” {
+    background-color: #140F2D;
+    text-align: center;
+    color: white;
+    font-size: xxx-large;
+    font-family: "Ink Free";
+    padding-top: 1.25em;
+    padding-bottom: 1.25em;
+}
+
+a.nav-link {
+    color: #0464ad !important;
+}
+
+.bg-light {
+    background-color: #FFF3DA !important;
+}
+
+.dropdown-menu {
+    --bs-dropdown-bg: #FAE9D5 !important;
+}
+
+.dropdown-item {
+    color: #023257;
+}

@@ -1,0 +1,96 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    background-color: #FFF3DA;
+}
+
+div.”title” {
+    background-color: #1a202c;
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+    font-family: Garamond;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    width: 80%;
+    margin : auto;
+    border-radius: 0.375em;
+}
+
+div.”title-publisher” {
+    background-color: #1a202c;
+    /*text-align: center;*/
+    color: white;
+    font-size: xx-large;
+    font-family: Garamond;
+    padding-top: 1em;
+    /*padding-bottom: 1em;*/
+    width: 80%;
+    margin : auto;
+    border-radius: 0.375em;
+}
+
+div.row {
+    width: 50%;
+    margin: auto;
+    padding-bottom: 1.25em;
+}
+
+div.contact-information {
+    width: 80%;
+    margin: auto;
+}
+
+div.contact-information-title {
+    font-size: xx-large;
+    padding-top: 0.625em;
+    padding-bottom: 0.625em;
+    /*padding-left: 6.25em;*/
+}
+
+div.contact-information-sub-title {
+    font-size: large;
+    /*padding-top: 0.625em;*/
+    /*padding-left: 6.25em;*/
+}
+
+.card-group {
+    width: 80%;
+    margin: auto;
+    gap: 2rem;
+    padding-top: 3.125em;
+    padding-bottom: 3.125em;
+    border: #1a202c !important;
+}
+
+.card-detail{
+    width: 50% !important;
+    margin: auto !important;
+}
+
+a.btn-primary {
+    width : 50%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.publisher-content {
+    margin: 0.5em 0;
+}
+
+.publisher-container {
+    width: 100% !important;
+    margin-left: 0.375em !important;
+}
+
+.col {
+}
+
+img.publisher-logo {
+    -webkit-filter:invert(100%);
+    filter:progid:DXImageTransform.Microsoft.BasicImage(invert='1');
+}
+
+
+
